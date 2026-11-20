@@ -1,6 +1,6 @@
 # x86 Binary Patching Lab
 
-Laboratório de engenharia reversa e *binary patching* em um executável PE32 (x86, 32 bits), feito para a disciplina **COCC0263 – Arquitetura de Computadores** (UFMA, 2026.2).
+Laboratório de engenharia reversa e *binary patching* em um executável PE32 (x86, 32 bits), feito para a disciplina **Arquitetura de Computadores** (UFMA).
 
 O objetivo: descobrir como o programa `unbreak_windows.exe` valida a senha, chegar na senha por análise estática e dinâmica e, por fim, burlar a verificação alterando bytes do binário.
 
