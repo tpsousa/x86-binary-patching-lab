@@ -1,0 +1,23 @@
+# Binários do laboratório (material do professor / versões patchadas)
+*.exe
+*.dll
+
+# Projetos do Ghidra
+*.gpr
+*.rep/
+*.lock
+*.lock~
+
+# LaTeX (se for versionar o .tex do relatório)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Python / editor / SO
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
